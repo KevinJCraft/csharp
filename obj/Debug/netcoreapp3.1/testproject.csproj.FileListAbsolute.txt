@@ -1,0 +1,13 @@
+C:\Users\Kevin J Craft\OneDrive\Desktop\New folder (2)\testproject\bin\Debug\netcoreapp3.1\testproject.exe
+C:\Users\Kevin J Craft\OneDrive\Desktop\New folder (2)\testproject\bin\Debug\netcoreapp3.1\testproject.deps.json
+C:\Users\Kevin J Craft\OneDrive\Desktop\New folder (2)\testproject\bin\Debug\netcoreapp3.1\testproject.runtimeconfig.json
+C:\Users\Kevin J Craft\OneDrive\Desktop\New folder (2)\testproject\bin\Debug\netcoreapp3.1\testproject.runtimeconfig.dev.json
+C:\Users\Kevin J Craft\OneDrive\Desktop\New folder (2)\testproject\bin\Debug\netcoreapp3.1\testproject.dll
+C:\Users\Kevin J Craft\OneDrive\Desktop\New folder (2)\testproject\bin\Debug\netcoreapp3.1\testproject.pdb
+C:\Users\Kevin J Craft\OneDrive\Desktop\New folder (2)\testproject\obj\Debug\netcoreapp3.1\testproject.csprojAssemblyReference.cache
+C:\Users\Kevin J Craft\OneDrive\Desktop\New folder (2)\testproject\obj\Debug\netcoreapp3.1\testproject.csproj.CoreCompileInputs.cache
+C:\Users\Kevin J Craft\OneDrive\Desktop\New folder (2)\testproject\obj\Debug\netcoreapp3.1\testproject.AssemblyInfoInputs.cache
+C:\Users\Kevin J Craft\OneDrive\Desktop\New folder (2)\testproject\obj\Debug\netcoreapp3.1\testproject.AssemblyInfo.cs
+C:\Users\Kevin J Craft\OneDrive\Desktop\New folder (2)\testproject\obj\Debug\netcoreapp3.1\testproject.dll
+C:\Users\Kevin J Craft\OneDrive\Desktop\New folder (2)\testproject\obj\Debug\netcoreapp3.1\testproject.pdb
+C:\Users\Kevin J Craft\OneDrive\Desktop\New folder (2)\testproject\obj\Debug\netcoreapp3.1\testproject.genruntimeconfig.cache
